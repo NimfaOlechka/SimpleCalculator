@@ -76,4 +76,4 @@ menu for Program.cs in Solution Explorer, and then choose View Code.
 8. Choose the F5 key to run the project. You can also choose a Build Solution 
 option in Build menubefore choosing Run for to be sure that you copied code without 
 any mistakes A Command Prompt window appears and Programs will start.# SimpleCalculator
-EksamensOpgave SimpleCalculator
+
