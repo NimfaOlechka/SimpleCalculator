@@ -13,8 +13,7 @@ Contacts:
 =========
 Voice: +45 20302252
 E-mail:nimfaolya@mail.ru
-GitHub: https://github.com/NimfaOlechka/SimpleCalculator.git
-
+GitHub: https://github.com/NimfaOlechka
 
 
 Program SimpleCalculator summary:
@@ -29,19 +28,23 @@ It consists of the parts:
 			     with user defined values og searching for maximum value 
                              within array.
 
-
 GENERAL USAGE NOTES
 ===================
 
-- Language: Microsoft Visual C# 2017;
-Requirements:
-   - Administrator rights are required to install Visual Studio;
-   - Microsoft Visual Studio 2017 Version 15.4.1;
-   - Microsoft .NET Framework Version 4.7.02046 or higher version (Appropriate version will be installed during setup);
+Language: Microsoft Visual C# 2017.
+
+REQUIREMENTS:
+   - Administrator rights are required to install Visual Studio.
+   - Microsoft Visual Studio 2017 Version 15.4.1.
+   - Microsoft .NET Framework Version 4.7.02046 or higher version (Appropriate version will be installed during setup).
+   
+   - Download files from GitHub  GitHub: https://github.com/NimfaOlechka/SimpleCalculator.git (you can also copy code from there).
+   
 Supported Operation Systems:
    - Windows 10 version 1507 or higher(LTSB and S are not supported);
    - Windows Server 2016;
-   - Windows 8.1;
+   - Windows 8.1.
+   
 Hardware:
 - 1.8 GHz or faster processor. Dual-core or better recommended
 - 2 GB of RAM; 4 GB of RAM recommended (2.5 GB minimum if running on a virtual machine)
@@ -56,8 +59,8 @@ Additional Information:
 For installing Visual Studio on MAC OS, please, visit original supplier web page:
 https://www.visualstudio.com/en-us/productinfo/vs2017-system-requirements-mac
 
-Running the programm in console application:
-============================================
+Quick Usage Guide:
+==================
 
 1. Start Visual Studio 2017.
 2. On the menu bar, choose File, New, Project.
@@ -71,6 +74,3 @@ menu for Program.cs in Solution Explorer, and then choose View Code.
 8. Choose the F5 key to run the project. You can also choose a Build Solution 
 option in Build menubefore choosing Run for to be sure that you copied code without 
 any mistakes A Command Prompt window appears and Program will start.
-
-# SimpleCalculator
-
