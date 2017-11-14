@@ -1,9 +1,7 @@
-===============================================================
+
 C# Console Application: SimpleCalculator Version 2.0 14.11.2017
 ===============================================================
 
-
-========
 License:
 ========
 Copyright 2017 Olga Kozhevnikova (Mercantec: House of Technology) 
@@ -11,7 +9,6 @@ All rights reserved. This program and its use are subject to a license agreement
 and are also subject to Copyright, trademark, patent and\or other laws.
 
 
-=========
 Contacts:
 =========
 Voice: +45 20302252
@@ -19,8 +16,8 @@ E-mail:nimfaolya@mail.ru
 GitHub: https://github.com/NimfaOlechka/SimpleCalculator.git
 
 
-==================================================================================
-This program named SimpleCalculator represents ExamProject from BasicProgrammering.
+
+Program SimpleCalculator summary:
 ===================================================================================
 It consists of the parts: 
 
@@ -31,7 +28,6 @@ It consists of the parts:
 - Array Implementation part: Perform of using array in programm by creating one 
 			     with user defined values og searching for maximum value 
                              within array.
-
 
 
 GENERAL USAGE NOTES
@@ -60,7 +56,6 @@ Additional Information:
 For installing Visual Studio on MAC OS, please, visit original supplier web page:
 https://www.visualstudio.com/en-us/productinfo/vs2017-system-requirements-mac
 
-============================================
 Running the programm in console application:
 ============================================
 
